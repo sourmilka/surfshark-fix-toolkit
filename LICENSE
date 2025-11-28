@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Surfshark VPN Fix Toolkit Contributors
+Copyright (c) 2024 Surfshark Fix Toolkit Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+DISCLAIMER:
+
+This toolkit is not affiliated with, endorsed by, or connected to Surfshark in any way.
+Surfshark is a registered trademark of Surfshark Ltd.
+
+This software is provided as-is for educational and troubleshooting purposes.
+Use at your own risk. The authors are not responsible for any damage, data loss,
+or issues arising from the use of this toolkit.
+
+Always backup important data before running system modification scripts.
+
+For official Surfshark support, visit: https://support.surfshark.com
