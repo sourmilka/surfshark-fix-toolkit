@@ -1,0 +1,30 @@
+# .gitignore for Surfshark VPN Fix Toolkit
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell
+*.ps1.bak
+*.log
+*.tmp
+
+# Backup files
+*.backup
+*.backup_*
+surfshark-repair-log.txt
+
+# User-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Test files
+test/
+temp/
+
+# OS files
+.DS_Store
+._*
