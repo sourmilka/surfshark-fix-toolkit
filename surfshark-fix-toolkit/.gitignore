@@ -1,0 +1,41 @@
+# PowerShell script outputs and logs
+*.log
+*.txt
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# User-specific files (avoid committing personal data)
+*credentials*
+*password*
+*email*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Test output
+test-results/
+test-output/
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# GitHub specific
+.github/workflows/local-*.yml
