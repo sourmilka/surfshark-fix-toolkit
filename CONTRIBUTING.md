@@ -2,12 +2,24 @@
 
 Thank you for considering contributing! This toolkit helps thousands of users worldwide resolve Surfshark VPN issues.
 
+## 📑 Table of Contents
+
+- [How to Contribute](#how-to-contribute)
+- [Development Guidelines](#development-guidelines)
+- [Testing Guidelines](#testing-guidelines)
+- [Pull Request Guidelines](#pull-request-guidelines)
+- [Code of Conduct](#code-of-conduct)
+- [Project Structure](#project-structure)
+- [Areas Needing Help](#areas-needing-help)
+- [Getting Help](#getting-help)
+- [Recognition](#recognition)
+
 ---
 
 ## How to Contribute
 
 ### 🐛 Report Bugs
-Found a bug? [Open an issue](../../issues/new) with:
+Found a bug? [Open an issue](https://github.com/sourmilka/surfshark-fix-toolkit/issues/new) with:
 - Windows version (`winver` command)
 - Surfshark version (App → Settings → About)
 - PowerShell version (`$PSVersionTable.PSVersion`)
@@ -16,7 +28,7 @@ Found a bug? [Open an issue](../../issues/new) with:
 - Error messages/screenshots
 
 ### 💡 Suggest Features
-Have an idea? [Open an issue](../../issues/new) with:
+Have an idea? [Open an issue](https://github.com/sourmilka/surfshark-fix-toolkit/issues/new) with:
 - Clear description of the feature
 - Use case (why it's needed)
 - Proposed implementation (if applicable)
@@ -270,8 +282,8 @@ surfshark-fix-toolkit/
 ## Getting Help
 
 ### Developer Questions
-- 💬 [GitHub Discussions](../../discussions)
-- 🐛 [Issues](../../issues)
+- 💬 [GitHub Discussions](https://github.com/sourmilka/surfshark-fix-toolkit/discussions)
+- 🐛 [Issues](https://github.com/sourmilka/surfshark-fix-toolkit/issues)
 
 ### Learning Resources
 - [PowerShell Documentation](https://docs.microsoft.com/powershell)
@@ -297,7 +309,7 @@ By contributing, you agree that your contributions will be licensed under the [M
 
 ## Questions?
 
-Feel free to [open an issue](../../issues/new) or start a [discussion](../../discussions/new)!
+Feel free to [open an issue](https://github.com/sourmilka/surfshark-fix-toolkit/issues/new) or start a [discussion](https://github.com/sourmilka/surfshark-fix-toolkit/discussions/new)!
 
 ---
 
